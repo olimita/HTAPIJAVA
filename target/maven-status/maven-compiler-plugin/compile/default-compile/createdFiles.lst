@@ -1,0 +1,16 @@
+com\olima\ws\rest\model\GenericCCard.class
+com\olima\ws\rest\model\Credentials.class
+com\olima\ws\rest\resource\UserCardsResource$1.class
+com\olima\ws\rest\resource\UserResource$1.class
+com\olima\ws\rest\resource\UserResource.class
+com\olima\ws\rest\model\GenericUser.class
+com\olima\ws\rest\resource\AuthResource.class
+com\olima\ws\rest\service\UserService.class
+com\olima\ws\rest\resource\CardResource$1.class
+com\olima\ws\rest\model\CCard.class
+com\olima\ws\rest\resource\CardResource.class
+com\olima\ws\rest\service\CardService.class
+com\olima\ws\rest\model\User.class
+com\olima\ws\rest\resource\UserCardsResource.class
+com\olima\ws\rest\model\DataBaseConnect.class
+com\olima\ws\rest\service\AuthService.class
