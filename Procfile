@@ -1,1 +1,1 @@
-web:java -jar target/dependency/webapp-runner.jar target/RestAPI.war
+web: java -jar target/dependency/webapp-runner.jar target/RestAPI.war
